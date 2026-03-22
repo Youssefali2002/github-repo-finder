@@ -2,10 +2,10 @@
 
 ![GitHub-Repo-Finder-Demo](preview.png)
 
-![GitHub stars](https://img.shields.io/github/stars/Youssefali2002/Code-Finder-GitHub?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Youssefali2002/Code-Finder-GitHub?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Youssefali2002/Code-Finder-GitHub)
-![GitHub license](https://img.shields.io/github/license/Youssefali2002/Code-Finder-GitHub)
+![GitHub stars](https://img.shields.io/github/stars/Youssefali2002/github-repo-finder?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Youssefali2002/github-repo-finder?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Youssefali2002/github-repo-finder)
+![GitHub license](https://img.shields.io/github/license/Youssefali2002/github-repo-finder)
 
 A modern, responsive web application to find and explore GitHub repositories with a beautiful UI and smooth animations. Built with clean, semantic code and best practices.
 
@@ -22,6 +22,8 @@ A modern, responsive web application to find and explore GitHub repositories wit
 ## 🚀 Live Demo
 
 **🌐 Check out the live application:** [https://youssefali2002.github.io/Code-Finder-GitHub/](https://youssefali2002.github.io/Code-Finder-GitHub/)
+
+**🔗 Alternative Demo:** [https://youssefali2002.github.io/github-repo-finder/](https://youssefali2002.github.io/github-repo-finder/)
 
 Search for any GitHub username (e.g., `facebook`, `microsoft`, `google`) to explore their repositories.
 
@@ -63,8 +65,8 @@ The application is fully responsive and optimized for:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Youssefali2002/Code-Finder-GitHub.git
-   cd Code-Finder-GitHub
+   git clone https://github.com/Youssefali2002/github-repo-finder.git
+   cd github-repo-finder
    ```
 
 2. **Open in browser**
